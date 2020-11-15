@@ -7,8 +7,15 @@ package pbo10k10119918latihan57vehicle;
 
 /**
  *
- * @author andreas
+ * @author 
+ * NAMA      : Andreas Suryadi
+ * KELAS     : IF-10K
+ * NIM       : 10119918
+ * Deskripsi Program : Program ini bertujuan untuk menampilkan umur dari
+ * barang antik
+ * 
  */
+
 public class PBO10K10119918Latihan57Vehicle {
 
     /**
