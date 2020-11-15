@@ -11,8 +11,8 @@ package pbo10k10119918latihan57vehicle;
  * NAMA      : Andreas Suryadi
  * KELAS     : IF-10K
  * NIM       : 10119918
- * Deskripsi Program : Program ini bertujuan untuk menampilkan umur dari
- * barang antik
+ * Deskripsi Program : Program ini bertujuan untuk menampilkan data dari 
+ * kendaraan
  * 
  */
 
